@@ -7,6 +7,8 @@ Slike su već skinute i mogu se naći na Google drajvu na [ovoj adresi](https://
 
 Pošto sam morao da koristim Google Colaboratory za treniranje modela usled nedostatka hardvera, ceo projekat (Svaki Notebook, sačuvani podaci i modeli) nalaze se na [ovoj adresi](https://drive.google.com/drive/folders/1lyoUvf1tIdcL9ir_DTBZ9V6tgEDKUpcb?usp=drive_link).
 
+Na repozitorijumu se nalaze samo skinuti Notebook-ovi sa google colaboratory, nisu predviđeni za pokretanje.
+
 Projekat samostalno radi Petar Đorđević 1088/2022
 
 Korišćene biblioteke:
