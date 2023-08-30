@@ -22,3 +22,4 @@ Linkovi ka odgovarajućim Notebook-ovima:
 - [analiza i pretprocesiranje podataka](https://colab.research.google.com/drive/1kYCvDYCTRXri8uAo31QbRxygu7qmnPDr?usp=sharing)
 - [jednostavan model](https://colab.research.google.com/drive/1k875iRdiVcQgofLd0wWjAg0lGp0H8Kgu?usp=sharing)
 - [manji model od prethodnog](https://colab.research.google.com/drive/16ulrVoqDEFsTZnA0DXipncZVWQ5wLtTC?usp=drive_link)
+- [manji sa šumom](https://colab.research.google.com/drive/1OZn3sQnSJtRR2T63PiLzqRr6YGP6uMXf?usp=drive_link)
