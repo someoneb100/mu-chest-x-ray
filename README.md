@@ -24,3 +24,7 @@ Linkovi ka odgovarajućim Notebook-ovima:
 - [manji model od prethodnog](https://colab.research.google.com/drive/16ulrVoqDEFsTZnA0DXipncZVWQ5wLtTC?usp=drive_link)
 - [manji sa šumom](https://colab.research.google.com/drive/1OZn3sQnSJtRR2T63PiLzqRr6YGP6uMXf?usp=drive_link)
 - [potpuno konvolutivna mreža](https://colab.research.google.com/drive/1GiM4WDhNDb516Ghox7PawPzZ6Sn6Q85o?usp=drive_link)
+- [alexnet](https://colab.research.google.com/drive/1WstB98S1yDEAdOiq9vryDVVbZtWIAvKK?usp=drive_link)
+
+Reference:
+ - [Introduction to The Architecture of Alexnet | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/03/introduction-to-the-architecture-of-alexnet/)
