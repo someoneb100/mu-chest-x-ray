@@ -26,6 +26,7 @@ Linkovi ka odgovarajućim Notebook-ovima:
 - [potpuno konvolutivna mreža](https://colab.research.google.com/drive/1GiM4WDhNDb516Ghox7PawPzZ6Sn6Q85o?usp=drive_link)
 - [alexnet](https://colab.research.google.com/drive/1WstB98S1yDEAdOiq9vryDVVbZtWIAvKK?usp=drive_link)
 - [vgg16](https://colab.research.google.com/drive/1LfaVNv3ltNBeAvMBu2Phk1NbX-zwXhwQ?usp=drive_link)
+- [krajnja analiza](https://colab.research.google.com/drive/19DfL-sjVewWD5bQVg6WIBU9SQUGQlQXh?usp=drive_link)
 
 Reference:
  - [Introduction to The Architecture of Alexnet | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/03/introduction-to-the-architecture-of-alexnet/)
